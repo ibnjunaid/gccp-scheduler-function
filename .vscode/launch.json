@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "Deploy Cloud Function",
+            "type": "cloudcode.cloudfunctions",
+            "request": "launch",
+            "functionName": "gccp-scheduler-function",
+            "gen": "GEN_1",
+            "entryPoint": "schedule",
+            "testInput": "",
+            "region": "asia-south1",
+            "runtime": "nodejs16",
+            "revision": "3"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "scheduler-function",
+  "version": "0.0.1",
+  "private": true,
+  "license": "Apache-2.0",
+  "author": "Osama Bin Junaid",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.1.0",
+    "@google-cloud/scheduler": "^3.1.0",
+    "joi": "^17.7.0"
+  }
+}
